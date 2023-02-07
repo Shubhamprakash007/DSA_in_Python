@@ -1,4 +1,4 @@
-> mention full data structure and algorithm topic that we need to cover to crack any product based comany
+> 
 > 
 > To crack a product based company, it is important to have a strong understanding of the following data structures and algorithms:
 > 
